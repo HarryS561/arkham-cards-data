@@ -12,13 +12,13 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "Core"
-msgstr ""
+msgstr "基础游戏"
 
 msgid "Side stories"
-msgstr ""
+msgstr "支线故事"
 
 msgid "Promotional"
-msgstr ""
+msgstr "推广内容"
 
 msgid "Non-canon Content"
-msgstr ""
+msgstr "非正典内容"
