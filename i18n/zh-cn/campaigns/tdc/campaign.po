@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Language: zh-cn\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
+"Language: zh-cn\n"
 "Content-Type: \n"
 "Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "The Drowned City"
 msgstr ""
@@ -61,7 +62,9 @@ msgstr ""
 msgid "Season Two"
 msgstr ""
 
-msgid "Play through the campaign on hard or expert mode using 4 investigators from 4 different previous campaigns."
+msgid ""
+"Play through the campaign on hard or expert mode using 4 investigators from "
+"4 different previous campaigns."
 msgstr ""
 
 msgid "Cliff Diver"
@@ -73,7 +76,9 @@ msgstr ""
 msgid "This is a Coup"
 msgstr ""
 
-msgid "Defeat both Naomi O’Bannion and Sadie Sheldon in <i>One Last Job</i> using only the act 3a parley ability."
+msgid ""
+"Defeat both Naomi O’Bannion and Sadie Sheldon in <i>One Last Job</i> using "
+"only the act 3a parley ability."
 msgstr ""
 
 msgid "Thorough Search"
@@ -85,7 +90,9 @@ msgstr ""
 msgid "Tidal Flip Minigame"
 msgstr ""
 
-msgid "Complete <i>The Drowned Quarter</i> with each location revealed and not flooded."
+msgid ""
+"Complete <i>The Drowned Quarter</i> with each location revealed and not "
+"flooded."
 msgstr ""
 
 msgid "No Acolyte Left Behind"
@@ -97,25 +104,32 @@ msgstr ""
 msgid "Kill the Adds"
 msgstr ""
 
-msgid "Defeat Mother in <i>The Apiary</i> using only her <b>Forced</b> effect."
+msgid ""
+"Defeat Mother in <i>The Apiary</i> using only her <b>Forced</b> effect."
 msgstr ""
 
 msgid "In The Deep End"
 msgstr ""
 
-msgid "Escape <i>The Grand Vault</i> with the Tidal Tablet after every location has been fully flooded."
+msgid ""
+"Escape <i>The Grand Vault</i> with the Tidal Tablet after every location has"
+" been fully flooded."
 msgstr ""
 
 msgid "Sorry, Didn’t See You There"
 msgstr ""
 
-msgid "Beat <i>Court of the Ancients</i> without moving the Great Lift after the Colossal Tyrant spawns."
+msgid ""
+"Beat <i>Court of the Ancients</i> without moving the Great Lift after the "
+"Colossal Tyrant spawns."
 msgstr ""
 
 msgid "Sky Rider"
 msgstr ""
 
-msgid "End your turn in open sky at least 5 times during a single game of <i>Obsidian Canyons</i>."
+msgid ""
+"End your turn in open sky at least 5 times during a single game of "
+"<i>Obsidian Canyons</i>."
 msgstr ""
 
 msgid "Skip to the End"
@@ -133,22 +147,29 @@ msgstr ""
 msgid "Alien School Graduate"
 msgstr ""
 
-msgid "Translate all 26 alien glyphs during a single playthrough of <i>The Drowned City</i> campaign."
+msgid ""
+"Translate all 26 alien glyphs during a single playthrough of <i>The Drowned "
+"City</i> campaign."
 msgstr ""
 
 msgid "Empty Handed"
 msgstr ""
 
-msgid "Return from R'lyeh without having collected any [[Artifact]] story assets."
+msgid ""
+"Return from R'lyeh without having collected any [[Artifact]] story assets."
 msgstr ""
 
 msgid "WHY. WON’T. YOU. STAY. DEAD?!"
 msgstr ""
 
-msgid "Add The Inescapable to the victory display at least 20 times during a single campaign."
+msgid ""
+"Add The Inescapable to the victory display at least 20 times during a single"
+" campaign."
 msgstr ""
 
-msgid "Finish <i>The Drowned City</i> campaign having earned the following artifacts:"
+msgid ""
+"Finish <i>The Drowned City</i> campaign having earned the following "
+"artifacts:"
 msgstr ""
 
 msgid "Grisly \"Mask\""
@@ -157,10 +178,12 @@ msgstr ""
 msgid "Obligations"
 msgstr ""
 
-msgid "Finish <i>The Drowned City</i> campaign with the following tasks completed:"
+msgid ""
+"Finish <i>The Drowned City</i> campaign with the following tasks completed:"
 msgstr ""
 
-msgid "Win <i>The Drowned City</i> campaign with at least three Ultimatums active."
+msgid ""
+"Win <i>The Drowned City</i> campaign with at least three Ultimatums active."
 msgstr ""
 
 msgid "R’lyeh Expertise"

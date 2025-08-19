@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -87,7 +88,8 @@ msgstr "第一日([day])"
 msgid "Aperitif"
 msgstr "开胃菜"
 
-msgid "Complete <i>The Feast of Hemlock Vale</i> campaign once on any difficulty."
+msgid ""
+"Complete <i>The Feast of Hemlock Vale</i> campaign once on any difficulty."
 msgstr "以任意难度完成《铁杉谷盛宴》剧本一次。"
 
 msgid "Unshattered"
@@ -99,19 +101,25 @@ msgstr "达成这个剧本的每一种结局。"
 msgid "A Strong, Silent Type"
 msgstr "刚毅静默"
 
-msgid "Finish <i>The Feast of Hemlock Vale</i> campaign without voluntarily triggering any codex entries."
+msgid ""
+"Finish <i>The Feast of Hemlock Vale</i> campaign without voluntarily "
+"triggering any codex entries."
 msgstr "在没有主动触发任何圣典条目的状况下，完成《铁杉谷盛宴》剧本。"
 
 msgid "Colour Outside the Lines"
 msgstr "言外之彩"
 
-msgid "Skip both <i>The Twisted Hollow</i> and <i>The Longest Night</i> during a single playthrough."
+msgid ""
+"Skip both <i>The Twisted Hollow</i> and <i>The Longest Night</i> during a "
+"single playthrough."
 msgstr "在单次剧本中，同时跳过<i>盘根空树</i>与<i>长夜</i>冒险。"
 
 msgid "Life of the Party"
 msgstr "派对动物"
 
-msgid "Complete <i>The Feast of Hemlock Vale</i> campaign with each resident at Relationship Level 2 or higher."
+msgid ""
+"Complete <i>The Feast of Hemlock Vale</i> campaign with each resident at "
+"Relationship Level 2 or higher."
 msgstr ""
 "在所有住民的友好度皆至少有2格的状况下，完成\n"
 "《铁杉谷盛宴》剧本。"
@@ -119,13 +127,17 @@ msgstr ""
 msgid "Dancing Queen"
 msgstr "舞池女王"
 
-msgid "<i>Share a dance</i> with 4 different residents during <i>The Second Evening</i> prelude."
+msgid ""
+"<i>Share a dance</i> with 4 different residents during <i>The Second "
+"Evening</i> prelude."
 msgstr "在<i>次夜</i>序章中，与4位不同的住民<i>共舞</i>。"
 
 msgid "Audrey III"
 msgstr "奥黛莉三世"
 
-msgid "Complete a scenario engaged with a Poisonblossom having 10 or more overgrowth on it."
+msgid ""
+"Complete a scenario engaged with a Poisonblossom having 10 or more "
+"overgrowth on it."
 msgstr ""
 "在与至少有10个过度生长的毒花交战的状况\n"
 "下，完成一场冒险。"
@@ -133,13 +145,16 @@ msgstr ""
 msgid "Hold on to your Potatoes!"
 msgstr "抓紧你的马铃薯！"
 
-msgid "Complete <i>Written in Rock</i> with both a resident and the Prismatic Shard asset under your control."
+msgid ""
+"Complete <i>Written in Rock</i> with both a resident and the Prismatic Shard"
+" asset under your control."
 msgstr "同时控制住民以及棱彩晶体的状况下，完成<i>铭刻于石</i>。"
 
 msgid "Dream Home Breakover"
 msgstr "改造梦想家园"
 
-msgid "Complete <i>Hemlock House</i> with 10 locations in the victory display."
+msgid ""
+"Complete <i>Hemlock House</i> with 10 locations in the victory display."
 msgstr "在胜利区中有10个地点的状况下，完成<i>铁杉之家</i>。"
 
 msgid "Settling the Score"
@@ -151,7 +166,8 @@ msgstr "在<i>池底之物</i>中，击败池底之物。"
 msgid "“Here, Crabby Crabby!”"
 msgstr "“来这里，小虾虾”"
 
-msgid "Make the Limulus Hybrid flip at least 8 times during <i>The Lost Sister</i>."
+msgid ""
+"Make the Limulus Hybrid flip at least 8 times during <i>The Lost Sister</i>."
 msgstr "在<i>迷途姊妹</i>中，使鳖属杂生物翻面至少8次。"
 
 msgid "A Different Kind of Sting Ops"
@@ -163,25 +179,33 @@ msgstr "在没有生成虫巢女王的状况下，完成<i>静寂荒原</i>。"
 msgid "Wait, There’s No Shrouded Shrine?"
 msgstr "等等，没有隐藏神庙吗？"
 
-msgid "Survive <i>The Twisted Hollow</i> in Standalone Mode until you reach at least Darkness Level 10."
+msgid ""
+"Survive <i>The Twisted Hollow</i> in Standalone Mode until you reach at "
+"least Darkness Level 10."
 msgstr "在单场冒险模式中进行<i>盘根空树</i>，并存活下来直到在黑暗等级达到10。"
 
 msgid "Bear Necessities"
 msgstr "熊的必需品"
 
-msgid "Defeat the Ursine Hybrid in <i>The Longest Night</i> using only scenario card effects."
+msgid ""
+"Defeat the Ursine Hybrid in <i>The Longest Night</i> using only scenario "
+"card effects."
 msgstr "在<i>长夜</i>中，仅使用冒险卡牌效果击败熊属杂生物。"
 
 msgid "Let’s Do the Time Warp!"
 msgstr "让我们扭曲时间！"
 
-msgid "Complete the Lambs to the Slaughter Resolution in <b>Prelude: The Final Evening</b>."
+msgid ""
+"Complete the Lambs to the Slaughter Resolution in <b>Prelude: The Final "
+"Evening</b>."
 msgstr "在<b>序章：终夜</b>中完成待宰羔羊结局。"
 
 msgid "Oblivion Shmoblivion"
 msgstr "反向湮灭"
 
-msgid "Win the <i>Fate of the Vale</i> with each Cosmic Emissary enemy in the victory display."
+msgid ""
+"Win the <i>Fate of the Vale</i> with each Cosmic Emissary enemy in the "
+"victory display."
 msgstr "在每个星界神使都在胜利区的状况下，赢得<i>谷中宿命</i>冒险胜利。"
 
 msgid "High Dive"
@@ -199,19 +223,25 @@ msgstr "与以下的住民达到6格友好度："
 msgid "Know Your Place"
 msgstr "拥抱天命"
 
-msgid "Win <i>The Feast of Hemlock Vale</i> campaign with Mother Rachel at Relationship Level 3."
+msgid ""
+"Win <i>The Feast of Hemlock Vale</i> campaign with Mother Rachel at "
+"Relationship Level 3."
 msgstr "在与瑞秋主母的友好度至少有3格的状况下，赢得《铁杉谷盛宴》剧本胜利。"
 
 msgid "Heart of Steel"
 msgstr "钢铁之心"
 
-msgid "Win <i>The Feast of Hemlock Vale</i> campaign with Judith Park at Relationship Level 7."
+msgid ""
+"Win <i>The Feast of Hemlock Vale</i> campaign with Judith Park at "
+"Relationship Level 7."
 msgstr "在与茱蒂丝．朴的友好度为7格的状况下，赢得《铁杉谷盛宴》剧本胜利。"
 
 msgid "Holding Out for a Himbo"
 msgstr "花美男又怎样"
 
-msgid "Win <i>The Feast of Hemlock Vale</i> campaign with Theo Peters at Relationship Level 7."
+msgid ""
+"Win <i>The Feast of Hemlock Vale</i> campaign with Theo Peters at "
+"Relationship Level 7."
 msgstr "在与西奥．彼得斯的友好度为7格的状况下，赢得《铁杉谷盛宴》剧本胜利。"
 
 msgid "Captivating Scream"
@@ -220,7 +250,9 @@ msgstr "迷人尖啸"
 msgid "Win <i>The Feast of Hemlock Vale</i> campaign as Patrice Hathaway."
 msgstr "以派翠丝．海瑟薇作为调查员，赢得《铁杉谷盛宴》剧本胜利。"
 
-msgid "Win <i>The Feast of Hemlock Vale</i> campaign with at least three Ultimatums active."
+msgid ""
+"Win <i>The Feast of Hemlock Vale</i> campaign with at least three Ultimatums"
+" active."
 msgstr "在至少三个变体 Ultimatums 挑战启用的情况下，赢得《铁杉谷盛宴》剧本胜利。"
 
 msgid "Hemlock Expertise"

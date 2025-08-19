@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Language: zh\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
+"Language: zh\n"
 "Content-Type: \n"
 "Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "If an investigator is playing Akachi Onyele or Julian Herbert:"
 msgstr ""
@@ -23,7 +24,8 @@ msgid ""
 "Your intuition tells you this is no coincidence. You make an appointment with the representative to offer your help."
 msgstr ""
 
-msgid "Akachi Onyele or Julian Herbert is the lead investigator for this campaign."
+msgid ""
+"Akachi Onyele or Julian Herbert is the lead investigator for this campaign."
 msgstr ""
 
 msgid "the Ancestors are watching you."

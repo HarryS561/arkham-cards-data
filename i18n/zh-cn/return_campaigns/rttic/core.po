@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Language: zh-cn\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
+"Language: zh-cn\n"
 "Content-Type: \n"
 "Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid ""
 "Some cards in this fan-made expansions refer to “Deep One investigators.” You count as a Deep One Investigator as long as you have the [[Deep One]] trait, granted through either a scenario card or a player card. You also count as a [[Deep One]] investigator as long as you have a permanent player card that grants the Deep One trait added to your deck.\n"
